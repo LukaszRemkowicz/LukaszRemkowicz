@@ -8,7 +8,7 @@ Im interested in WebDeveloping (JS, HTML, CSS). In free time im taking night pho
 
 - 🌱 I’m currently learning writing clean and understandable code, creating more dynamical websites and building APIs (Django Rest Framework)
 
-- 📫 How to reach me: https://www.linkedin.com/in/lukasz-remkowicz/
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lukasz-remkowicz/)
 
 - 🤔 I’m currently looking for a job as a Junior Python Developer
 
