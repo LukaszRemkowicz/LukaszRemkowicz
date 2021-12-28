@@ -2,7 +2,7 @@
 
 My name is Lukasz Remkowicz. Im self learned programmer who who fell in love in Python.
 
-Im interested in WebDeveloping (JS, HTML, CSS). In free time im taking night photos and listening to music :)
+Im interested in WebDeveloping (JS, HTML, CSS, Django). In free time im taking night photos and listening to music :)
 
 - 🔭 I’m currently working on e-commerce shop with electronic things (like TV, laptops, phones). Project is still in progress. Im going to focus on user and employer side of the project.
 
