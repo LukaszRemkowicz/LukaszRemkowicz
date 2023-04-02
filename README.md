@@ -10,8 +10,6 @@ Im interested in WebDeveloping (JS, HTML, CSS, Django). In free time im taking n
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lukasz-remkowicz/)
 
-- 🤔 I’m currently looking for a job as a Junior Python Developer
-
 
 <!--
 **LukaszRemkowicz/LukaszRemkowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
